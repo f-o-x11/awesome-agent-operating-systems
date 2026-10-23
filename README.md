@@ -135,6 +135,8 @@ Platforms for running agents in production.
 
 - **[Render](https://render.com/)** - Unified cloud with static sites, web services, databases. Flat pricing, automatic deploys from Git. *Checked: 2026-08-16*
 
+- **[deed.page](https://deed.page/)** - Static hosting that agents publish to themselves: one HTTP PUT or a call to the remote MCP server at `deed.page/mcp` puts a page live at `<slug>.deed.page`. Free plan needs no signup. *Checked: 2026-10-23*
+
 ---
 
 ## Agent Development Tools
